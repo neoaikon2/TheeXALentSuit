@@ -9,3 +9,7 @@ Fixed folder layout, Thunderstore wasn't clear I needed the BepInEx/plugins/<my 
 ## 1.0.2
 
 Increased scale of procedural textures on Outrunner, this should make the emission more visible with the heavy downsampling LC has
+
+## 1.0.3
+
+Not sure how I fucked up the folder layout again, but here we are... :/
